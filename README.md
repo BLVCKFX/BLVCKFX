@@ -1,4 +1,4 @@
-### Hola maricon, I'm Ledian! 👋
+### Namaste, I'm Ledian! 👋
 
 - 🔭 I’m currently working on 
 - 🌱 I’m currently learning Flutter
